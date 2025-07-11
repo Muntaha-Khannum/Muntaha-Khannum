@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Muntaha! 👋
 
+- 🔭 I’m learning **SQL(MySQL)** and Tableau for data analysis.
+- 🌱 Currently improving my data visualization skills.
+- - 📫 How to reach me: "muntaha.mails@gmail.com"
 <!--
 **Muntaha-Khannum/Muntaha-Khannum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
